@@ -18,4 +18,4 @@ if st.button("Descubrir resultado ❤️"):
         
         st.balloons()
     else:
-        st.warning("Tenés que completar todo, si no, no vale  -_-" - TRAMPOSA! 😄")
+        st.warning("Tenés que completar todo, si no, no vale  -_- - TRAMPOSA! 😄")
